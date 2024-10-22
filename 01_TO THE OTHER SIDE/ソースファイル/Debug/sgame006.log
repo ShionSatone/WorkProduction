@@ -1,2 +1,28 @@
-﻿  sgame006.vcxproj -> C:\Users\student\Desktop\片付け\過去の制作\2Dアクション\プロジェクト\ver.6.0\Debug\sgame006.exe
-  sgame006.vcxproj -> C:\Users\student\Desktop\片付け\過去の制作\2Dアクション\プロジェクト\ver.6.0\Debug\sgame006.pdb (Full PDB)
+﻿  title.cpp
+  splayer.cpp
+  sound.cpp
+  Set.cpp
+  sblock.cpp
+  result.cpp
+  remain.cpp
+  player.cpp
+  pausemenu.cpp
+  pause.cpp
+  particle.cpp
+  main.cpp
+  item.cpp
+  input.cpp
+  goal.cpp
+  game.cpp
+  fade.cpp
+  exit.cpp
+  enemy.cpp
+  effect.cpp
+  コードを生成中...
+  コンパイル中...
+  block.cpp
+  bg.cpp
+  コードを生成中...
+  LINK : 前回のインクリメンタル リンクで C:\Users\student\Desktop\就活\就活共通\作品制作提出用git\WorkProduction\01_TO THE OTHER SIDE\ソースファイル\Debug\sgame006.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
+  sgame006.vcxproj -> C:\Users\student\Desktop\就活\就活共通\作品制作提出用git\WorkProduction\01_TO THE OTHER SIDE\ソースファイル\Debug\sgame006.exe
+  sgame006.vcxproj -> C:\Users\student\Desktop\就活\就活共通\作品制作提出用git\WorkProduction\01_TO THE OTHER SIDE\ソースファイル\Debug\sgame006.pdb (Full PDB)

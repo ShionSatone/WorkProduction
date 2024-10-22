@@ -27,114 +27,114 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="object.cpp">
+    <ClCompile Include="code\object.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="field.cpp">
+    <ClCompile Include="code\field.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="object3D.cpp">
+    <ClCompile Include="code\object3D.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="texture.cpp">
+    <ClCompile Include="code\texture.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="camera.cpp">
+    <ClCompile Include="code\camera.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="debugproc.cpp">
+    <ClCompile Include="code\debugproc.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="edit.cpp">
+    <ClCompile Include="code\edit.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="input.cpp">
+    <ClCompile Include="code\input.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="light.cpp">
+    <ClCompile Include="code\light.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="code\main.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="manager.cpp">
+    <ClCompile Include="code\manager.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="model.cpp">
+    <ClCompile Include="code\model.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="modelHierarchy.cpp">
+    <ClCompile Include="code\modelHierarchy.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="motion.cpp">
+    <ClCompile Include="code\motion.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="objectX.cpp">
+    <ClCompile Include="code\objectX.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="playerModel.cpp">
+    <ClCompile Include="code\playerModel.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="renderer.cpp">
+    <ClCompile Include="code\renderer.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="material.cpp">
+    <ClCompile Include="code\material.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="object.h">
+    <ClInclude Include="code\object.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="field.h">
+    <ClInclude Include="code\field.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="object3D.h">
+    <ClInclude Include="code\object3D.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="texture.h">
+    <ClInclude Include="code\texture.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="camera.h">
+    <ClInclude Include="code\camera.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="debugproc.h">
+    <ClInclude Include="code\debugproc.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="input.h">
+    <ClInclude Include="code\input.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="light.h">
+    <ClInclude Include="code\light.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="main.h">
+    <ClInclude Include="code\main.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="manager.h">
+    <ClInclude Include="code\manager.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="renderer.h">
+    <ClInclude Include="code\renderer.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="edit.h">
+    <ClInclude Include="code\edit.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="model.h">
+    <ClInclude Include="code\model.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="modelHierarchy.h">
+    <ClInclude Include="code\modelHierarchy.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="motion.h">
+    <ClInclude Include="code\motion.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="objectX.h">
+    <ClInclude Include="code\objectX.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="playerModel.h">
+    <ClInclude Include="code\playerModel.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="material.h">
+    <ClInclude Include="code\material.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>

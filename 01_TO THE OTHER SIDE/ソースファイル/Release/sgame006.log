@@ -1,2 +1,30 @@
-﻿  sgame006.vcxproj -> C:\Users\student\Desktop\片付け\過去の制作\2Dアクション\プロジェクト\ver.6.0\sgame006.exe
-  sgame006.vcxproj -> C:\Users\student\Desktop\片付け\過去の制作\2Dアクション\プロジェクト\ver.6.0\sgame006.pdb (Full PDB)
+﻿  bg.cpp
+  block.cpp
+  effect.cpp
+  enemy.cpp
+  exit.cpp
+  fade.cpp
+  game.cpp
+  goal.cpp
+  input.cpp
+  item.cpp
+  main.cpp
+  particle.cpp
+  pause.cpp
+  pausemenu.cpp
+  player.cpp
+  remain.cpp
+  result.cpp
+  sblock.cpp
+  Set.cpp
+  sound.cpp
+  コンパイル中...
+  splayer.cpp
+  title.cpp
+  コード生成しています。
+  172 of 174 functions (98.9%) were compiled, the rest were copied from previous compilation.
+    16 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  sgame006.vcxproj -> C:\Users\student\Desktop\就活\就活共通\作品制作提出用git\WorkProduction\01_TO THE OTHER SIDE\ソースファイル\sgame006.exe
+  sgame006.vcxproj -> C:\Users\student\Desktop\就活\就活共通\作品制作提出用git\WorkProduction\01_TO THE OTHER SIDE\ソースファイル\sgame006.pdb (Full PDB)
