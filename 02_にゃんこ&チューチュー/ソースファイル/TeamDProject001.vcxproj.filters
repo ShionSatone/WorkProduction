@@ -90,870 +90,870 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="fade.cpp">
+    <ClCompile Include="code\fade.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="code\main.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="manager.cpp">
+    <ClCompile Include="code\manager.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="mesh_cylinder.cpp">
+    <ClCompile Include="code\mesh_cylinder.cpp">
       <Filter>Mesh</Filter>
     </ClCompile>
-    <ClCompile Include="mesh_field.cpp">
+    <ClCompile Include="code\mesh_field.cpp">
       <Filter>Mesh</Filter>
     </ClCompile>
-    <ClCompile Include="mesh_dome.cpp">
+    <ClCompile Include="code\mesh_dome.cpp">
       <Filter>Mesh</Filter>
     </ClCompile>
-    <ClCompile Include="mesh_wall.cpp">
+    <ClCompile Include="code\mesh_wall.cpp">
       <Filter>Mesh</Filter>
     </ClCompile>
-    <ClCompile Include="character.cpp">
+    <ClCompile Include="code\character.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="elevation_manager.cpp">
+    <ClCompile Include="code\elevation_manager.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="mesh_manager.cpp">
+    <ClCompile Include="code\mesh_manager.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="model.cpp">
+    <ClCompile Include="code\model.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="object.cpp">
+    <ClCompile Include="code\object.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="object2D.cpp">
+    <ClCompile Include="code\object2D.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="object3D.cpp">
+    <ClCompile Include="code\object3D.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="object3Dfan.cpp">
+    <ClCompile Include="code\object3Dfan.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="objectAnim.cpp">
+    <ClCompile Include="code\objectAnim.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="objectbillboard.cpp">
+    <ClCompile Include="code\objectbillboard.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="objectDonut2D.cpp">
+    <ClCompile Include="code\objectDonut2D.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="objectElevation.cpp">
+    <ClCompile Include="code\objectElevation.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="Objectmesh.cpp">
+    <ClCompile Include="code\Objectmesh.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="objectScroll.cpp">
+    <ClCompile Include="code\objectScroll.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="objectX.cpp">
+    <ClCompile Include="code\objectX.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="game.cpp">
+    <ClCompile Include="code\game.cpp">
       <Filter>Scene\Game</Filter>
     </ClCompile>
-    <ClCompile Include="logo.cpp">
+    <ClCompile Include="code\logo.cpp">
       <Filter>Scene\Logo</Filter>
     </ClCompile>
-    <ClCompile Include="logo_mark.cpp">
+    <ClCompile Include="code\logo_mark.cpp">
       <Filter>Scene\Logo</Filter>
     </ClCompile>
-    <ClCompile Include="result.cpp">
+    <ClCompile Include="code\result.cpp">
       <Filter>Scene\Result</Filter>
     </ClCompile>
-    <ClCompile Include="title.cpp">
+    <ClCompile Include="code\title.cpp">
       <Filter>Scene\Title</Filter>
     </ClCompile>
-    <ClCompile Include="scene.cpp">
+    <ClCompile Include="code\scene.cpp">
       <Filter>Scene</Filter>
     </ClCompile>
-    <ClCompile Include="confetti.cpp">
+    <ClCompile Include="code\confetti.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="destruction.cpp">
+    <ClCompile Include="code\destruction.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="Effect.cpp">
+    <ClCompile Include="code\Effect.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="effect2D.cpp">
+    <ClCompile Include="code\effect2D.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="fraction.cpp">
+    <ClCompile Include="code\fraction.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="locus2D.cpp">
+    <ClCompile Include="code\locus2D.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="orbit.cpp">
+    <ClCompile Include="code\orbit.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="Particle.cpp">
+    <ClCompile Include="code\Particle.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="particle2D.cpp">
+    <ClCompile Include="code\particle2D.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="ripple.cpp">
+    <ClCompile Include="code\ripple.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="skybox.cpp">
+    <ClCompile Include="code\skybox.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="stun.cpp">
+    <ClCompile Include="code\stun.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="number.cpp">
+    <ClCompile Include="code\number.cpp">
       <Filter>UI</Filter>
     </ClCompile>
-    <ClCompile Include="pause.cpp">
+    <ClCompile Include="code\pause.cpp">
       <Filter>UI</Filter>
     </ClCompile>
-    <ClCompile Include="score.cpp">
+    <ClCompile Include="code\score.cpp">
       <Filter>UI</Filter>
     </ClCompile>
-    <ClCompile Include="time.cpp">
+    <ClCompile Include="code\time.cpp">
       <Filter>UI</Filter>
     </ClCompile>
-    <ClCompile Include="camera.cpp">
+    <ClCompile Include="code\camera.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="collision.cpp">
+    <ClCompile Include="code\collision.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="collpolygon.cpp">
+    <ClCompile Include="code\collpolygon.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="debugproc.cpp">
+    <ClCompile Include="code\debugproc.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="file.cpp">
+    <ClCompile Include="code\file.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="input.cpp">
+    <ClCompile Include="code\input.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="light.cpp">
+    <ClCompile Include="code\light.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="motion.cpp">
+    <ClCompile Include="code\motion.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="precompile.cpp">
+    <ClCompile Include="code\precompile.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="renderer.cpp">
+    <ClCompile Include="code\renderer.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="shadowCircle.cpp">
+    <ClCompile Include="code\shadowCircle.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="shadowModel.cpp">
+    <ClCompile Include="code\shadowModel.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="sound.cpp">
+    <ClCompile Include="code\sound.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="texture.cpp">
+    <ClCompile Include="code\texture.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="useful.cpp">
+    <ClCompile Include="code\useful.cpp">
       <Filter>Useful</Filter>
     </ClCompile>
-    <ClCompile Include="sample.cpp">
+    <ClCompile Include="code\sample.cpp">
       <Filter>Sample</Filter>
     </ClCompile>
-    <ClCompile Include="sample_manager.cpp">
+    <ClCompile Include="code\sample_manager.cpp">
       <Filter>Sample</Filter>
     </ClCompile>
-    <ClCompile Include="game_timer.cpp">
+    <ClCompile Include="code\game_timer.cpp">
       <Filter>UI</Filter>
     </ClCompile>
-    <ClCompile Include="edit.cpp">
+    <ClCompile Include="code\edit.cpp">
       <Filter>Edit</Filter>
     </ClCompile>
-    <ClCompile Include="rat.cpp">
+    <ClCompile Include="code\rat.cpp">
       <Filter>Player\Rat</Filter>
     </ClCompile>
-    <ClCompile Include="weapon_selectUI.cpp">
+    <ClCompile Include="code\weapon_selectUI.cpp">
       <Filter>UI\WeaponSelectUI</Filter>
     </ClCompile>
-    <ClCompile Include="weapon_cage.cpp">
+    <ClCompile Include="code\weapon_cage.cpp">
       <Filter>UI\WeaponSelectUI</Filter>
     </ClCompile>
-    <ClCompile Include="weapon_balloon.cpp">
+    <ClCompile Include="code\weapon_balloon.cpp">
       <Filter>UI\WeaponSelectUI</Filter>
     </ClCompile>
-    <ClCompile Include="Cat.cpp">
+    <ClCompile Include="code\Cat.cpp">
       <Filter>Player\Cat</Filter>
     </ClCompile>
-    <ClCompile Include="map.cpp">
+    <ClCompile Include="code\map.cpp">
       <Filter>Map</Filter>
     </ClCompile>
-    <ClCompile Include="block.cpp">
+    <ClCompile Include="code\block.cpp">
       <Filter>Gimmick\Block</Filter>
     </ClCompile>
-    <ClCompile Include="block_manager.cpp">
+    <ClCompile Include="code\block_manager.cpp">
       <Filter>Gimmick\Block</Filter>
     </ClCompile>
-    <ClCompile Include="hairball.cpp">
+    <ClCompile Include="code\hairball.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="honey.cpp">
+    <ClCompile Include="code\honey.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="obstacle.cpp">
+    <ClCompile Include="code\obstacle.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="obstacle_manager.cpp">
+    <ClCompile Include="code\obstacle_manager.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="slime.cpp">
+    <ClCompile Include="code\slime.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="player_idUI.cpp">
+    <ClCompile Include="code\player_idUI.cpp">
       <Filter>UI</Filter>
     </ClCompile>
-    <ClCompile Include="petbottle.cpp">
+    <ClCompile Include="code\petbottle.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="rat_ghost.cpp">
+    <ClCompile Include="code\rat_ghost.cpp">
       <Filter>Player\Rat</Filter>
     </ClCompile>
-    <ClCompile Include="speech_message.cpp">
+    <ClCompile Include="code\speech_message.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="ground.cpp">
+    <ClCompile Include="code\ground.cpp">
       <Filter>Map</Filter>
     </ClCompile>
-    <ClCompile Include="wall.cpp">
+    <ClCompile Include="code\wall.cpp">
       <Filter>Map</Filter>
     </ClCompile>
-    <ClCompile Include="toycar.cpp">
+    <ClCompile Include="code\toycar.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="2DUI_edit.cpp">
+    <ClCompile Include="code\2DUI_edit.cpp">
       <Filter>Edit</Filter>
     </ClCompile>
-    <ClCompile Include="car_gear.cpp">
+    <ClCompile Include="code\car_gear.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="entry.cpp">
+    <ClCompile Include="code\entry.cpp">
       <Filter>Scene\Entry</Filter>
     </ClCompile>
-    <ClCompile Include="countdown.cpp">
+    <ClCompile Include="code\countdown.cpp">
       <Filter>UI</Filter>
     </ClCompile>
-    <ClCompile Include="roomba.cpp">
+    <ClCompile Include="code\roomba.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="objectmesh2D.cpp">
+    <ClCompile Include="code\objectmesh2D.cpp">
       <Filter>Object</Filter>
     </ClCompile>
-    <ClCompile Include="title_logo.cpp">
+    <ClCompile Include="code\title_logo.cpp">
       <Filter>Scene\Title</Filter>
     </ClCompile>
-    <ClCompile Include="title_wall.cpp">
+    <ClCompile Include="code\title_wall.cpp">
       <Filter>Scene\Title</Filter>
     </ClCompile>
-    <ClCompile Include="title_floor.cpp">
+    <ClCompile Include="code\title_floor.cpp">
       <Filter>Scene\Title</Filter>
     </ClCompile>
-    <ClCompile Include="title_back.cpp">
+    <ClCompile Include="code\title_back.cpp">
       <Filter>Scene\Title</Filter>
     </ClCompile>
-    <ClCompile Include="entry_frame.cpp">
+    <ClCompile Include="code\entry_frame.cpp">
       <Filter>Scene\Entry</Filter>
     </ClCompile>
-    <ClCompile Include="entry_UI.cpp">
+    <ClCompile Include="code\entry_UI.cpp">
       <Filter>Scene\Entry</Filter>
     </ClCompile>
-    <ClCompile Include="entry_team.cpp">
+    <ClCompile Include="code\entry_team.cpp">
       <Filter>Scene\Entry</Filter>
     </ClCompile>
-    <ClCompile Include="entry_ID.cpp">
+    <ClCompile Include="code\entry_ID.cpp">
       <Filter>Scene\Entry</Filter>
     </ClCompile>
-    <ClCompile Include="Himo.cpp">
+    <ClCompile Include="code\Himo.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="tarai.cpp">
+    <ClCompile Include="code\tarai.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="result_letter.cpp">
+    <ClCompile Include="code\result_letter.cpp">
       <Filter>Scene\Result</Filter>
     </ClCompile>
-    <ClCompile Include="speaker.cpp">
+    <ClCompile Include="code\speaker.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="note.cpp">
+    <ClCompile Include="code\note.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="mousetrap.cpp">
+    <ClCompile Include="code\mousetrap.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="mousetrap_iron.cpp">
+    <ClCompile Include="code\mousetrap_iron.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="danger_mark.cpp">
+    <ClCompile Include="code\danger_mark.cpp">
       <Filter>Staging</Filter>
     </ClCompile>
-    <ClCompile Include="item.cpp">
+    <ClCompile Include="code\item.cpp">
       <Filter>Gimmick\Item</Filter>
     </ClCompile>
-    <ClCompile Include="item_manager.cpp">
+    <ClCompile Include="code\item_manager.cpp">
       <Filter>Gimmick\Item</Filter>
     </ClCompile>
-    <ClCompile Include="chara_infoUI.cpp">
+    <ClCompile Include="code\chara_infoUI.cpp">
       <Filter>UI\CharaInfoUI</Filter>
     </ClCompile>
-    <ClCompile Include="chara_icon.cpp">
+    <ClCompile Include="code\chara_icon.cpp">
       <Filter>UI\CharaInfoUI</Filter>
     </ClCompile>
-    <ClCompile Include="Pin.cpp">
+    <ClCompile Include="code\Pin.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="chara_ID.cpp">
+    <ClCompile Include="code\chara_ID.cpp">
       <Filter>UI\CharaInfoUI</Filter>
     </ClCompile>
-    <ClCompile Include="title_press.cpp">
+    <ClCompile Include="code\title_press.cpp">
       <Filter>Scene\Title</Filter>
     </ClCompile>
-    <ClCompile Include="resurrection_fan.cpp">
+    <ClCompile Include="code\resurrection_fan.cpp">
       <Filter>UI</Filter>
     </ClCompile>
-    <ClCompile Include="chara_state.cpp">
+    <ClCompile Include="code\chara_state.cpp">
       <Filter>UI\CharaInfoUI</Filter>
     </ClCompile>
-    <ClCompile Include="electricfan.cpp">
+    <ClCompile Include="code\electricfan.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="player.cpp">
+    <ClCompile Include="code\player.cpp">
       <Filter>Player</Filter>
     </ClCompile>
-    <ClCompile Include="leash.cpp">
+    <ClCompile Include="code\leash.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="cup.cpp">
+    <ClCompile Include="code\cup.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="consent.cpp">
+    <ClCompile Include="code\consent.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="fan_blade.cpp">
+    <ClCompile Include="code\fan_blade.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="MultiCamera.cpp">
+    <ClCompile Include="code\MultiCamera.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="game_finish.cpp">
+    <ClCompile Include="code\game_finish.cpp">
       <Filter>Scene\Game</Filter>
     </ClCompile>
-    <ClCompile Include="fan_wind.cpp">
+    <ClCompile Include="code\fan_wind.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="recoveringUI.cpp">
+    <ClCompile Include="code\recoveringUI.cpp">
       <Filter>UI</Filter>
     </ClCompile>
-    <ClCompile Include="itemUI.cpp">
+    <ClCompile Include="code\itemUI.cpp">
       <Filter>UI\ItemUI</Filter>
     </ClCompile>
-    <ClCompile Include="item_mark.cpp">
+    <ClCompile Include="code\item_mark.cpp">
       <Filter>UI\ItemUI</Filter>
     </ClCompile>
-    <ClCompile Include="item_frame.cpp">
+    <ClCompile Include="code\item_frame.cpp">
       <Filter>UI\ItemUI</Filter>
     </ClCompile>
-    <ClCompile Include="death_arrow.cpp">
+    <ClCompile Include="code\death_arrow.cpp">
       <Filter>Player\Rat</Filter>
     </ClCompile>
-    <ClCompile Include="log.cpp">
+    <ClCompile Include="code\log.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="tutorial.cpp">
+    <ClCompile Include="code\tutorial.cpp">
       <Filter>Scene\Tutorial</Filter>
     </ClCompile>
-    <ClCompile Include="explanation.cpp">
+    <ClCompile Include="code\explanation.cpp">
       <Filter>Scene\Tutorial</Filter>
     </ClCompile>
-    <ClCompile Include="answer.cpp">
+    <ClCompile Include="code\answer.cpp">
       <Filter>Scene\Tutorial</Filter>
     </ClCompile>
-    <ClCompile Include="garbagecan.cpp">
+    <ClCompile Include="code\garbagecan.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="entry_message.cpp">
+    <ClCompile Include="code\entry_message.cpp">
       <Filter>Scene\Entry</Filter>
     </ClCompile>
-    <ClCompile Include="tv.cpp">
+    <ClCompile Include="code\tv.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="entry_BG.cpp">
+    <ClCompile Include="code\entry_BG.cpp">
       <Filter>Scene\Entry</Filter>
     </ClCompile>
-    <ClCompile Include="book.cpp">
+    <ClCompile Include="code\book.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="dynamite.cpp">
+    <ClCompile Include="code\dynamite.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="curtain.cpp">
+    <ClCompile Include="code\curtain.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="switch.cpp">
+    <ClCompile Include="code\switch.cpp">
       <Filter>Gimmick\Obstacle</Filter>
     </ClCompile>
-    <ClCompile Include="screen_frame.cpp">
+    <ClCompile Include="code\screen_frame.cpp">
       <Filter>UI</Filter>
     </ClCompile>
-    <ClCompile Include="entry_rand.cpp">
+    <ClCompile Include="code\entry_rand.cpp">
       <Filter>Scene\Entry</Filter>
     </ClCompile>
-    <ClCompile Include="ratmecha.cpp">
+    <ClCompile Include="code\ratmecha.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="ceil.cpp">
+    <ClCompile Include="code\ceil.cpp">
       <Filter>Map</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="fade.h">
+    <ClInclude Include="code\fade.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="main.h">
+    <ClInclude Include="code\main.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="manager.h">
+    <ClInclude Include="code\manager.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="mesh_cylinder.h">
+    <ClInclude Include="code\mesh_cylinder.h">
       <Filter>Mesh</Filter>
     </ClInclude>
-    <ClInclude Include="mesh_dome.h">
+    <ClInclude Include="code\mesh_dome.h">
       <Filter>Mesh</Filter>
     </ClInclude>
-    <ClInclude Include="mesh_field.h">
+    <ClInclude Include="code\mesh_field.h">
       <Filter>Mesh</Filter>
     </ClInclude>
-    <ClInclude Include="mesh_wall.h">
+    <ClInclude Include="code\mesh_wall.h">
       <Filter>Mesh</Filter>
     </ClInclude>
-    <ClInclude Include="character.h">
+    <ClInclude Include="code\character.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="elevation_manager.h">
+    <ClInclude Include="code\elevation_manager.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="mesh_manager.h">
+    <ClInclude Include="code\mesh_manager.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="model.h">
+    <ClInclude Include="code\model.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="object.h">
+    <ClInclude Include="code\object.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="object2D.h">
+    <ClInclude Include="code\object2D.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="object3D.h">
+    <ClInclude Include="code\object3D.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="object3Dfan.h">
+    <ClInclude Include="code\object3Dfan.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="objectAnim.h">
+    <ClInclude Include="code\objectAnim.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="objectbillboard.h">
+    <ClInclude Include="code\objectbillboard.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="objectDonut2D.h">
+    <ClInclude Include="code\objectDonut2D.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="objectElevation.h">
+    <ClInclude Include="code\objectElevation.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="Objectmesh.h">
+    <ClInclude Include="code\Objectmesh.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="objectScroll.h">
+    <ClInclude Include="code\objectScroll.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="objectX.h">
+    <ClInclude Include="code\objectX.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="game.h">
+    <ClInclude Include="code\game.h">
       <Filter>Scene\Game</Filter>
     </ClInclude>
-    <ClInclude Include="logo.h">
+    <ClInclude Include="code\logo.h">
       <Filter>Scene\Logo</Filter>
     </ClInclude>
-    <ClInclude Include="logo_mark.h">
+    <ClInclude Include="code\logo_mark.h">
       <Filter>Scene\Logo</Filter>
     </ClInclude>
-    <ClInclude Include="result.h">
+    <ClInclude Include="code\result.h">
       <Filter>Scene\Result</Filter>
     </ClInclude>
-    <ClInclude Include="title.h">
+    <ClInclude Include="code\title.h">
       <Filter>Scene\Title</Filter>
     </ClInclude>
-    <ClInclude Include="scene.h">
+    <ClInclude Include="code\scene.h">
       <Filter>Scene</Filter>
     </ClInclude>
-    <ClInclude Include="confetti.h">
+    <ClInclude Include="code\confetti.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="destruction.h">
+    <ClInclude Include="code\destruction.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="Effect.h">
+    <ClInclude Include="code\Effect.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="effect2D.h">
+    <ClInclude Include="code\effect2D.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="locus2D.h">
+    <ClInclude Include="code\locus2D.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="orbit.h">
+    <ClInclude Include="code\orbit.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="Particle.h">
+    <ClInclude Include="code\Particle.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="particle2D.h">
+    <ClInclude Include="code\particle2D.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="ripple.h">
+    <ClInclude Include="code\ripple.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="skybox.h">
+    <ClInclude Include="code\skybox.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="stun.h">
+    <ClInclude Include="code\stun.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="fraction.h">
+    <ClInclude Include="code\fraction.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="number.h">
+    <ClInclude Include="code\number.h">
       <Filter>UI</Filter>
     </ClInclude>
-    <ClInclude Include="pause.h">
+    <ClInclude Include="code\pause.h">
       <Filter>UI</Filter>
     </ClInclude>
-    <ClInclude Include="score.h">
+    <ClInclude Include="code\score.h">
       <Filter>UI</Filter>
     </ClInclude>
-    <ClInclude Include="time.h">
+    <ClInclude Include="code\time.h">
       <Filter>UI</Filter>
     </ClInclude>
-    <ClInclude Include="camera.h">
+    <ClInclude Include="code\camera.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="collision.h">
+    <ClInclude Include="code\collision.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="collpolygon.h">
+    <ClInclude Include="code\collpolygon.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="debugproc.h">
+    <ClInclude Include="code\debugproc.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="file.h">
+    <ClInclude Include="code\file.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="input.h">
+    <ClInclude Include="code\input.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="light.h">
+    <ClInclude Include="code\light.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="motion.h">
+    <ClInclude Include="code\motion.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="precompile.h">
+    <ClInclude Include="code\precompile.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="renderer.h">
+    <ClInclude Include="code\renderer.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="shadowCircle.h">
+    <ClInclude Include="code\shadowCircle.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="shadowModel.h">
+    <ClInclude Include="code\shadowModel.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="sound.h">
+    <ClInclude Include="code\sound.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="texture.h">
+    <ClInclude Include="code\texture.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="useful.h">
+    <ClInclude Include="code\useful.h">
       <Filter>Useful</Filter>
     </ClInclude>
-    <ClInclude Include="sample.h">
+    <ClInclude Include="code\sample.h">
       <Filter>Sample</Filter>
     </ClInclude>
-    <ClInclude Include="sample_manager.h">
+    <ClInclude Include="code\sample_manager.h">
       <Filter>Sample</Filter>
     </ClInclude>
-    <ClInclude Include="game_timer.h">
+    <ClInclude Include="code\game_timer.h">
       <Filter>UI</Filter>
     </ClInclude>
-    <ClInclude Include="edit.h">
+    <ClInclude Include="code\edit.h">
       <Filter>Edit</Filter>
     </ClInclude>
-    <ClInclude Include="rat.h">
+    <ClInclude Include="code\rat.h">
       <Filter>Player\Rat</Filter>
     </ClInclude>
-    <ClInclude Include="weapon_selectUI.h">
+    <ClInclude Include="code\weapon_selectUI.h">
       <Filter>UI\WeaponSelectUI</Filter>
     </ClInclude>
-    <ClInclude Include="weapon_cage.h">
+    <ClInclude Include="code\weapon_cage.h">
       <Filter>UI\WeaponSelectUI</Filter>
     </ClInclude>
-    <ClInclude Include="weapon_balloon.h">
+    <ClInclude Include="code\weapon_balloon.h">
       <Filter>UI\WeaponSelectUI</Filter>
     </ClInclude>
-    <ClInclude Include="Cat.h">
+    <ClInclude Include="code\Cat.h">
       <Filter>Player\Cat</Filter>
     </ClInclude>
-    <ClInclude Include="map.h">
+    <ClInclude Include="code\map.h">
       <Filter>Map</Filter>
     </ClInclude>
-    <ClInclude Include="block.h">
+    <ClInclude Include="code\block.h">
       <Filter>Gimmick\Block</Filter>
     </ClInclude>
-    <ClInclude Include="block_manager.h">
+    <ClInclude Include="code\block_manager.h">
       <Filter>Gimmick\Block</Filter>
     </ClInclude>
-    <ClInclude Include="hairball.h">
+    <ClInclude Include="code\hairball.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="honey.h">
+    <ClInclude Include="code\honey.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="obstacle.h">
+    <ClInclude Include="code\obstacle.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="obstacle_manager.h">
+    <ClInclude Include="code\obstacle_manager.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="slime.h">
+    <ClInclude Include="code\slime.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="player_idUI.h">
+    <ClInclude Include="code\player_idUI.h">
       <Filter>UI</Filter>
     </ClInclude>
-    <ClInclude Include="petbottle.h">
+    <ClInclude Include="code\petbottle.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="rat_ghost.h">
+    <ClInclude Include="code\rat_ghost.h">
       <Filter>Player\Rat</Filter>
     </ClInclude>
-    <ClInclude Include="speech_message.h">
+    <ClInclude Include="code\speech_message.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="ground.h">
+    <ClInclude Include="code\ground.h">
       <Filter>Map</Filter>
     </ClInclude>
-    <ClInclude Include="wall.h">
+    <ClInclude Include="code\wall.h">
       <Filter>Map</Filter>
     </ClInclude>
-    <ClInclude Include="toycar.h">
+    <ClInclude Include="code\toycar.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="2DUI_edit.h">
+    <ClInclude Include="code\2DUI_edit.h">
       <Filter>Edit</Filter>
     </ClInclude>
-    <ClInclude Include="car_gear.h">
+    <ClInclude Include="code\car_gear.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="entry.h">
+    <ClInclude Include="code\entry.h">
       <Filter>Scene\Entry</Filter>
     </ClInclude>
-    <ClInclude Include="countdown.h">
+    <ClInclude Include="code\countdown.h">
       <Filter>UI</Filter>
     </ClInclude>
-    <ClInclude Include="roomba.h">
+    <ClInclude Include="code\roomba.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="objectmesh2D.h">
+    <ClInclude Include="code\objectmesh2D.h">
       <Filter>Object</Filter>
     </ClInclude>
-    <ClInclude Include="title_logo.h">
+    <ClInclude Include="code\title_logo.h">
       <Filter>Scene\Title</Filter>
     </ClInclude>
-    <ClInclude Include="title_wall.h">
+    <ClInclude Include="code\title_wall.h">
       <Filter>Scene\Title</Filter>
     </ClInclude>
-    <ClInclude Include="title_floor.h">
+    <ClInclude Include="code\title_floor.h">
       <Filter>Scene\Title</Filter>
     </ClInclude>
-    <ClInclude Include="title_back.h">
+    <ClInclude Include="code\title_back.h">
       <Filter>Scene\Title</Filter>
     </ClInclude>
-    <ClInclude Include="entry_UI.h">
+    <ClInclude Include="code\entry_UI.h">
       <Filter>Scene\Entry</Filter>
     </ClInclude>
-    <ClInclude Include="entry_frame.h">
+    <ClInclude Include="code\entry_frame.h">
       <Filter>Scene\Entry</Filter>
     </ClInclude>
-    <ClInclude Include="entry_team.h">
+    <ClInclude Include="code\entry_team.h">
       <Filter>Scene\Entry</Filter>
     </ClInclude>
-    <ClInclude Include="entry_ID.h">
+    <ClInclude Include="code\entry_ID.h">
       <Filter>Scene\Entry</Filter>
     </ClInclude>
-    <ClInclude Include="Himo.h">
+    <ClInclude Include="code\Himo.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="tarai.h">
+    <ClInclude Include="code\tarai.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="result_letter.h">
+    <ClInclude Include="code\result_letter.h">
       <Filter>Scene\Result</Filter>
     </ClInclude>
-    <ClInclude Include="speaker.h">
+    <ClInclude Include="code\speaker.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="note.h">
+    <ClInclude Include="code\note.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="mousetrap.h">
+    <ClInclude Include="code\mousetrap.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="mousetrap_iron.h">
+    <ClInclude Include="code\mousetrap_iron.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="danger_mark.h">
+    <ClInclude Include="code\danger_mark.h">
       <Filter>Staging</Filter>
     </ClInclude>
-    <ClInclude Include="item.h">
+    <ClInclude Include="code\item.h">
       <Filter>Gimmick\Item</Filter>
     </ClInclude>
-    <ClInclude Include="item_manager.h">
+    <ClInclude Include="code\item_manager.h">
       <Filter>Gimmick\Item</Filter>
     </ClInclude>
-    <ClInclude Include="chara_infoUI.h">
+    <ClInclude Include="code\chara_infoUI.h">
       <Filter>UI\CharaInfoUI</Filter>
     </ClInclude>
-    <ClInclude Include="chara_icon.h">
+    <ClInclude Include="code\chara_icon.h">
       <Filter>UI\CharaInfoUI</Filter>
     </ClInclude>
-    <ClInclude Include="Pin.h">
+    <ClInclude Include="code\Pin.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="chara_ID.h">
+    <ClInclude Include="code\chara_ID.h">
       <Filter>UI\CharaInfoUI</Filter>
     </ClInclude>
-    <ClInclude Include="title_press.h">
+    <ClInclude Include="code\title_press.h">
       <Filter>Scene\Title</Filter>
     </ClInclude>
-    <ClInclude Include="resurrection_fan.h">
+    <ClInclude Include="code\resurrection_fan.h">
       <Filter>UI</Filter>
     </ClInclude>
-    <ClInclude Include="chara_state.h">
+    <ClInclude Include="code\chara_state.h">
       <Filter>UI\CharaInfoUI</Filter>
     </ClInclude>
-    <ClInclude Include="electricfan.h">
+    <ClInclude Include="code\electricfan.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="player.h">
+    <ClInclude Include="code\player.h">
       <Filter>Player</Filter>
     </ClInclude>
-    <ClInclude Include="leash.h">
+    <ClInclude Include="code\leash.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="cup.h">
+    <ClInclude Include="code\cup.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="consent.h">
+    <ClInclude Include="code\consent.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="fan_blade.h">
+    <ClInclude Include="code\fan_blade.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="MultiCamera.h">
+    <ClInclude Include="code\MultiCamera.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="game_finish.h">
+    <ClInclude Include="code\game_finish.h">
       <Filter>Scene\Game</Filter>
     </ClInclude>
-    <ClInclude Include="fan_wind.h">
+    <ClInclude Include="code\fan_wind.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="recoveringUI.h">
+    <ClInclude Include="code\recoveringUI.h">
       <Filter>UI</Filter>
     </ClInclude>
-    <ClInclude Include="itemUI.h">
+    <ClInclude Include="code\itemUI.h">
       <Filter>UI\ItemUI</Filter>
     </ClInclude>
-    <ClInclude Include="item_mark.h">
+    <ClInclude Include="code\item_mark.h">
       <Filter>UI\ItemUI</Filter>
     </ClInclude>
-    <ClInclude Include="item_frame.h">
+    <ClInclude Include="code\item_frame.h">
       <Filter>UI\ItemUI</Filter>
     </ClInclude>
-    <ClInclude Include="death_arrow.h">
+    <ClInclude Include="code\death_arrow.h">
       <Filter>Player\Rat</Filter>
     </ClInclude>
-    <ClInclude Include="log.h">
+    <ClInclude Include="code\log.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="tutorial.h">
+    <ClInclude Include="code\tutorial.h">
       <Filter>Scene\Tutorial</Filter>
     </ClInclude>
-    <ClInclude Include="explanation.h">
+    <ClInclude Include="code\explanation.h">
       <Filter>Scene\Tutorial</Filter>
     </ClInclude>
-    <ClInclude Include="answer.h">
+    <ClInclude Include="code\answer.h">
       <Filter>Scene\Tutorial</Filter>
     </ClInclude>
-    <ClInclude Include="garbagecan.h">
+    <ClInclude Include="code\garbagecan.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="entry_message.h">
+    <ClInclude Include="code\entry_message.h">
       <Filter>Scene\Entry</Filter>
     </ClInclude>
-    <ClInclude Include="tv.h">
+    <ClInclude Include="code\tv.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="entry_BG.h">
+    <ClInclude Include="code\entry_BG.h">
       <Filter>Scene\Entry</Filter>
     </ClInclude>
-    <ClInclude Include="book.h">
+    <ClInclude Include="code\book.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="dynamite.h">
+    <ClInclude Include="code\dynamite.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="curtain.h">
+    <ClInclude Include="code\curtain.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="switch.h">
+    <ClInclude Include="code\switch.h">
       <Filter>Gimmick\Obstacle</Filter>
     </ClInclude>
-    <ClInclude Include="screen_frame.h">
+    <ClInclude Include="code\screen_frame.h">
       <Filter>UI</Filter>
     </ClInclude>
-    <ClInclude Include="entry_rand.h">
+    <ClInclude Include="code\entry_rand.h">
       <Filter>Scene\Entry</Filter>
     </ClInclude>
-    <ClInclude Include="ratmecha.h">
+    <ClInclude Include="code\ratmecha.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="ceil.h">
+    <ClInclude Include="code\ceil.h">
       <Filter>Map</Filter>
     </ClInclude>
   </ItemGroup>
