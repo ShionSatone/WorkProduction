@@ -51,252 +51,252 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="code\main.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="manager.cpp">
+    <ClCompile Include="code\manager.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="renderer.cpp">
+    <ClCompile Include="code\renderer.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="debugproc.cpp">
+    <ClCompile Include="code\debugproc.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="input.cpp">
+    <ClCompile Include="code\input.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="sound.cpp">
+    <ClCompile Include="code\sound.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="scene.cpp">
+    <ClCompile Include="code\scene.cpp">
       <Filter>ソース ファイル\scene</Filter>
     </ClCompile>
-    <ClCompile Include="fade.cpp">
+    <ClCompile Include="code\fade.cpp">
       <Filter>ソース ファイル\scene</Filter>
     </ClCompile>
-    <ClCompile Include="object2D.cpp">
+    <ClCompile Include="code\object2D.cpp">
       <Filter>ソース ファイル\object2D</Filter>
     </ClCompile>
-    <ClCompile Include="texture.cpp">
+    <ClCompile Include="code\texture.cpp">
       <Filter>ソース ファイル\object2D</Filter>
     </ClCompile>
-    <ClCompile Include="material.cpp">
+    <ClCompile Include="code\material.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="camera.cpp">
+    <ClCompile Include="code\camera.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="light.cpp">
+    <ClCompile Include="code\light.cpp">
       <Filter>ソース ファイル\manager</Filter>
     </ClCompile>
-    <ClCompile Include="precompile.cpp">
+    <ClCompile Include="code\precompile.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="billboard.cpp">
+    <ClCompile Include="code\billboard.cpp">
       <Filter>ソース ファイル\billboard</Filter>
     </ClCompile>
-    <ClCompile Include="game.cpp">
+    <ClCompile Include="code\game.cpp">
       <Filter>ソース ファイル\scene</Filter>
     </ClCompile>
-    <ClCompile Include="object3D.cpp">
+    <ClCompile Include="code\object3D.cpp">
       <Filter>ソース ファイル\object3D</Filter>
     </ClCompile>
-    <ClCompile Include="objectX.cpp">
+    <ClCompile Include="code\objectX.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="player.cpp">
+    <ClCompile Include="code\player.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="motion.cpp">
+    <ClCompile Include="code\motion.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="wall.cpp">
+    <ClCompile Include="code\wall.cpp">
       <Filter>ソース ファイル\object3D</Filter>
     </ClCompile>
-    <ClCompile Include="title.cpp">
+    <ClCompile Include="code\title.cpp">
       <Filter>ソース ファイル\scene</Filter>
     </ClCompile>
-    <ClCompile Include="tutorial.cpp">
+    <ClCompile Include="code\tutorial.cpp">
       <Filter>ソース ファイル\scene</Filter>
     </ClCompile>
-    <ClCompile Include="result.cpp">
+    <ClCompile Include="code\result.cpp">
       <Filter>ソース ファイル\scene</Filter>
     </ClCompile>
-    <ClCompile Include="number.cpp">
+    <ClCompile Include="code\number.cpp">
       <Filter>ソース ファイル\object2D</Filter>
     </ClCompile>
-    <ClCompile Include="bg.cpp">
+    <ClCompile Include="code\bg.cpp">
       <Filter>ソース ファイル\object2D</Filter>
     </ClCompile>
-    <ClCompile Include="enemy.cpp">
+    <ClCompile Include="code\enemy.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="model.cpp">
+    <ClCompile Include="code\model.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="edit.cpp">
+    <ClCompile Include="code\edit.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="modelHierarchy.cpp">
+    <ClCompile Include="code\modelHierarchy.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="score.cpp">
+    <ClCompile Include="code\score.cpp">
       <Filter>ソース ファイル\object2D</Filter>
     </ClCompile>
-    <ClCompile Include="object.cpp">
+    <ClCompile Include="code\object.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="ranking.cpp">
+    <ClCompile Include="code\ranking.cpp">
       <Filter>ソース ファイル\scene</Filter>
     </ClCompile>
-    <ClCompile Include="item.cpp">
+    <ClCompile Include="code\item.cpp">
       <Filter>ソース ファイル\objectX</Filter>
     </ClCompile>
-    <ClCompile Include="pause.cpp">
+    <ClCompile Include="code\pause.cpp">
       <Filter>ソース ファイル\scene</Filter>
     </ClCompile>
-    <ClCompile Include="UI_death.cpp">
+    <ClCompile Include="code\UI_death.cpp">
       <Filter>ソース ファイル\object2D</Filter>
     </ClCompile>
-    <ClCompile Include="UI_item.cpp">
+    <ClCompile Include="code\UI_item.cpp">
       <Filter>ソース ファイル\object2D</Filter>
     </ClCompile>
-    <ClCompile Include="titleTexture.cpp">
+    <ClCompile Include="code\titleTexture.cpp">
       <Filter>ソース ファイル\object2D</Filter>
     </ClCompile>
-    <ClCompile Include="effect.cpp">
+    <ClCompile Include="code\effect.cpp">
       <Filter>ソース ファイル\billboard</Filter>
     </ClCompile>
-    <ClCompile Include="tutorial_texture.cpp">
+    <ClCompile Include="code\tutorial_texture.cpp">
       <Filter>ソース ファイル\object3D</Filter>
     </ClCompile>
-    <ClCompile Include="particle.cpp">
+    <ClCompile Include="code\particle.cpp">
       <Filter>ソース ファイル\billboard</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="manager.h">
+    <ClInclude Include="code\manager.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="main.h">
+    <ClInclude Include="code\main.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="debugproc.h">
+    <ClInclude Include="code\debugproc.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="input.h">
+    <ClInclude Include="code\input.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="renderer.h">
+    <ClInclude Include="code\renderer.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="sound.h">
+    <ClInclude Include="code\sound.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="scene.h">
+    <ClInclude Include="code\scene.h">
       <Filter>ヘッダー ファイル\scene</Filter>
     </ClInclude>
-    <ClInclude Include="fade.h">
+    <ClInclude Include="code\fade.h">
       <Filter>ヘッダー ファイル\scene</Filter>
     </ClInclude>
-    <ClInclude Include="object2D.h">
+    <ClInclude Include="code\object2D.h">
       <Filter>ヘッダー ファイル\object2D</Filter>
     </ClInclude>
-    <ClInclude Include="texture.h">
+    <ClInclude Include="code\texture.h">
       <Filter>ヘッダー ファイル\object2D</Filter>
     </ClInclude>
-    <ClInclude Include="material.h">
+    <ClInclude Include="code\material.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="camera.h">
+    <ClInclude Include="code\camera.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="light.h">
+    <ClInclude Include="code\light.h">
       <Filter>ヘッダー ファイル\manager</Filter>
     </ClInclude>
-    <ClInclude Include="precompile.h">
+    <ClInclude Include="code\precompile.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="billboard.h">
+    <ClInclude Include="code\billboard.h">
       <Filter>ヘッダー ファイル\billboard</Filter>
     </ClInclude>
-    <ClInclude Include="game.h">
+    <ClInclude Include="code\game.h">
       <Filter>ヘッダー ファイル\scene</Filter>
     </ClInclude>
-    <ClInclude Include="object3D.h">
+    <ClInclude Include="code\object3D.h">
       <Filter>ヘッダー ファイル\object3D</Filter>
     </ClInclude>
-    <ClInclude Include="objectX.h">
+    <ClInclude Include="code\objectX.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="player.h">
+    <ClInclude Include="code\player.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="motion.h">
+    <ClInclude Include="code\motion.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="wall.h">
+    <ClInclude Include="code\wall.h">
       <Filter>ヘッダー ファイル\object3D</Filter>
     </ClInclude>
-    <ClInclude Include="title.h">
+    <ClInclude Include="code\title.h">
       <Filter>ヘッダー ファイル\scene</Filter>
     </ClInclude>
-    <ClInclude Include="tutorial.h">
+    <ClInclude Include="code\tutorial.h">
       <Filter>ヘッダー ファイル\scene</Filter>
     </ClInclude>
-    <ClInclude Include="result.h">
+    <ClInclude Include="code\result.h">
       <Filter>ヘッダー ファイル\scene</Filter>
     </ClInclude>
-    <ClInclude Include="number.h">
+    <ClInclude Include="code\number.h">
       <Filter>ヘッダー ファイル\object2D</Filter>
     </ClInclude>
-    <ClInclude Include="bg.h">
+    <ClInclude Include="code\bg.h">
       <Filter>ヘッダー ファイル\object2D</Filter>
     </ClInclude>
-    <ClInclude Include="enemy.h">
+    <ClInclude Include="code\enemy.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="model.h">
+    <ClInclude Include="code\model.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="edit.h">
+    <ClInclude Include="code\edit.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="modelHierarchy.h">
+    <ClInclude Include="code\modelHierarchy.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="score.h">
+    <ClInclude Include="code\score.h">
       <Filter>ヘッダー ファイル\object2D</Filter>
     </ClInclude>
-    <ClInclude Include="object.h">
+    <ClInclude Include="code\object.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="ranking.h">
+    <ClInclude Include="code\ranking.h">
       <Filter>ヘッダー ファイル\scene</Filter>
     </ClInclude>
-    <ClInclude Include="item.h">
+    <ClInclude Include="code\item.h">
       <Filter>ヘッダー ファイル\objectX</Filter>
     </ClInclude>
-    <ClInclude Include="pause.h">
+    <ClInclude Include="code\pause.h">
       <Filter>ヘッダー ファイル\scene</Filter>
     </ClInclude>
-    <ClInclude Include="UI_death.h">
+    <ClInclude Include="code\UI_death.h">
       <Filter>ヘッダー ファイル\object2D</Filter>
     </ClInclude>
-    <ClInclude Include="UI_item.h">
+    <ClInclude Include="code\UI_item.h">
       <Filter>ヘッダー ファイル\object2D</Filter>
     </ClInclude>
-    <ClInclude Include="titleTexture.h">
+    <ClInclude Include="code\titleTexture.h">
       <Filter>ヘッダー ファイル\object2D</Filter>
     </ClInclude>
-    <ClInclude Include="effect.h">
+    <ClInclude Include="code\effect.h">
       <Filter>ヘッダー ファイル\billboard</Filter>
     </ClInclude>
-    <ClInclude Include="tutorial_texture.h">
+    <ClInclude Include="code\tutorial_texture.h">
       <Filter>ヘッダー ファイル\object3D</Filter>
     </ClInclude>
-    <ClInclude Include="particle.h">
+    <ClInclude Include="code\particle.h">
       <Filter>ヘッダー ファイル\billboard</Filter>
     </ClInclude>
   </ItemGroup>
